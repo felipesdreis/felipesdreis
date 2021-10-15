@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesdreis
 - 👀 I’m interested in Javascript and Python, as well as the frameworks of these languages.
-- 🌱 I’m currently learning more about python, for the future leaning more about Machine learning and Big Data.
+- 🌱 I’m currently learning more about python.
 - 📫 You can reach me in www.techgenial.com.br
 
 <!---
