@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipesdreis
-- 💻 I'm work as Tech Lead at icarotech.com
+- 💻 I'm work as Tech Lead at www.icarotech.com
 - 👀 I'm Interested in Javascript and Python, as well as the frameworks of these languages
 - 📫 You can reach me in www.techgenial.com.br
 
