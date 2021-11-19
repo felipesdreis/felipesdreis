@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesdreis
-- 👀 I’m interested in Javascript and Python, as well as the frameworks of these languages.
-- 🌱 I’m currently learning more about python.
+- 💻 I'm work as Tech Lead at icarotech.com
+- 👀 I'm Interested in Javascript and Python, as well as the frameworks of these languages
 - 📫 You can reach me in www.techgenial.com.br
 
 <!---
