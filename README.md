@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Reis
 
 - 💻 Trabalho como Tech Lead na www.icarotech.com
-- 👀 Tenho interesse por javascript, python, também por automação de processos
+- 👀 A lista de Linguagens e Frameworks que tenho interesse ta logo abaixo, na parte de Skills
 - 📗 Sempre buscando aprender novas tecnologias
   
 <div align="center">
