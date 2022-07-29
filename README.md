@@ -3,6 +3,11 @@
 - 💻 Trabalho como Tech Lead na www.icarotech.com
 - 👀 A lista de Linguagens e Frameworks que tenho interesse ta logo abaixo, na parte de Skills
 - 📗 Sempre buscando aprender novas tecnologias
+
+### Sites
+<a href="http://felipedosreis.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px;">Felipe Reis</a>
+<br>
+<a href="http://techgenial.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px;">Tech Genial</a>
   
 <div align="center">
 <h2>Skills</h2>
