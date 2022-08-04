@@ -5,9 +5,15 @@
 - 📗 Sempre buscando aprender novas tecnologias
 
 ### Sites
-<a href="http://felipedosreis.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px;">Felipe Reis</a>
+<div style="display: flex; align-items: center;">
+    <img src="http://drive.google.com/uc?export=view&id=12V3A__8-twA7idGSHrdJv5eOBe4ba1IW" alt="tech-brain" height="50">
+    <a href="http://felipedosreis.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px; vertical-align: middle; margin-left: 5px;">Felipe Reis</a>
+</div>
 <br>
-<a href="http://techgenial.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px;">Tech Genial</a>
+<div style="display: flex; align-items: center;">
+    <img src="http://drive.google.com/uc?export=view&id=12lnl5sXh5lc84awEurSYG16S_MPIsUmV" alt="tech-brain" height="50">
+    <a href="http://techgenial.com.br" target="_blank" style="font-family: Helvetica; font-size: 15px; vertical-align: middle; margin-left: 5px;">Tech Genial</a>
+</div>
   
 <div align="center">
 <h2>Skills</h2>
