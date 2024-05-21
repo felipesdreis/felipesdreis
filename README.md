@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe Reis
 
-- 💻 Trabalho como Tech Arch na www.icarotech.com
+- 💻 Trabalho como Engenheiro de Soluções na www.icarotech.com
 - 👀 A lista de Linguagens e Frameworks que tenho interesse ta logo abaixo, na parte de Skills
 - 📗 Sempre buscando aprender novas tecnologias
 
